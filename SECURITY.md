@@ -1,6 +1,6 @@
 Thank you for your work in helping keep Standard Notes safe and secure. If you believe you've found a security issue in our product, we encourage you to notify us. We welcome working with you to resolve the issue promptly.
 
-# Disclosure Policy
+# Disclosure Policy  // Adding some highlighters //
 
 - Let us know as soon as possible upon discovery of a potential security issue, and we'll make every
   effort to quickly resolve the issue. Please email [security@standardnotes.com](mailto:security@standardnotes.com) for a direct response.
